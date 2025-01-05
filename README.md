@@ -7,7 +7,7 @@ Este é um simples aplicativo de To-Do List (lista de tarefas) desenvolvido em P
 - 📥 **Adicionar tarefa:** Permite adicionar novas tarefas à lista.
 - 📃 **Listar tarefas:** Exibe todas as tarefas armazenadas.
 - ⛔ **Excluir tarefa:** Permite excluir uma tarefa específica.
-- 🖍 **Armazenamento persistente:** As tarefas são salvas em um arquivo de texto chamado `tasks.txt`, para que suas tarefas permaneçam após fechar o programa.
+- 🖍 **Armazenamento persistente:** As tarefas são salvas em um arquivo de texto chamado `tasks.txt`.
 
 ## 📲 Tecnologias 
 
@@ -42,7 +42,7 @@ todo_list/
 └── tasks.txt          # Arquivo de texto onde as tarefas são armazenadas
 ```
 ## ✏ Contribuição 
-Sinta-se à vontade para contribuir com melhorias, sugestões ou correções. Se você encontrar algum problema, crie uma issue ou envie um pull request.
+Sinta-se à vontade para contribuir com melhorias, sugestões ou correções.
 
 ## 📜 Licença 
 Este projeto é de código aberto, licenciado sob a **MIT License**.
