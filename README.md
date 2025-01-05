@@ -4,10 +4,10 @@ Este é um simples aplicativo de To-Do List (lista de tarefas) desenvolvido em P
 
 ## ⭐ Funcionalidades 
 
-- ** 📥 Adicionar tarefa:** Permite adicionar novas tarefas à lista.
-- ** 📃 Listar tarefas:** Exibe todas as tarefas armazenadas.
-- ** ⛔ Excluir tarefa:** Permite excluir uma tarefa específica.
-- ** 🖍 Armazenamento persistente:** As tarefas são salvas em um arquivo de texto chamado `tasks.txt`, para que suas tarefas permaneçam após fechar o programa.
+- 📥 **Adicionar tarefa:** Permite adicionar novas tarefas à lista.
+- 📃 **Listar tarefas:** Exibe todas as tarefas armazenadas.
+- ⛔ **Excluir tarefa:** Permite excluir uma tarefa específica.
+- 🖍 **Armazenamento persistente:** As tarefas são salvas em um arquivo de texto chamado `tasks.txt`, para que suas tarefas permaneçam após fechar o programa.
 
 ## 📲 Tecnologias 
 
@@ -18,10 +18,11 @@ Este é um simples aplicativo de To-Do List (lista de tarefas) desenvolvido em P
 1. **Clonar o repositório:**
    Para obter o código, clone este repositório em seu computador:
 
-   ```bash
-   git clone <URL_DO_REPOSITORIO>
-   
-##🔧 Instalar o Python 
+```bash
+git clone <https://github.com/dev-jordi/To-do-List>
+```
+  
+## 🔧 Instalar o Python 
 Certifique-se de ter o Python 3.x instalado em sua máquina. Se não, você pode baixá-lo aqui.  [![Clique aqui](https://img.shields.io/badge/Click%20Here-blue)](https://www.python.org/ftp/python/3.13.1/python-3.13.1-amd64.exe)
 
 
