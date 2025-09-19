@@ -9,10 +9,6 @@ Este é um simples aplicativo de To-Do List (lista de tarefas) desenvolvido em P
 - ⛔ **Excluir tarefa:** Permite excluir uma tarefa específica.
 - 🖍 **Armazenamento persistente:** As tarefas são salvas em um arquivo de texto chamado `tasks.txt`.
 
-## 📲 Tecnologias 
-
-- ![Python](https://img.shields.io/badge/Python-3.10-blue)
-
 ## 📀 Como rodar o projeto 
 
 1. **Clonar o repositório:**
