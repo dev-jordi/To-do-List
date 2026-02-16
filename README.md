@@ -37,8 +37,6 @@ todo_list/
 ├── main.py            # Código principal do programa
 └── tasks.txt          # Arquivo de texto onde as tarefas são armazenadas
 ```
-## ✏ Contribuição 
-Sinta-se à vontade para contribuir com melhorias, sugestões ou correções.
 
 ## 📜 Licença 
 Este projeto é de código aberto, licenciado sob a **MIT License**.
